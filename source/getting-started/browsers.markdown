@@ -24,6 +24,8 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 | [Chrome]                  | 50.0.2661.102  | works      |                          |
 | [Firefox]                 | 43.0.1         | works      |                          |
 | [Iridium]                 | 48.2           | works      |                          |
+| [Vivaldi]                 | 1.2.490.43     | works      |                          |
+
 
 ## {% linkable_title MacOS %}
 
@@ -61,6 +63,13 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 | :-------------------- |:---------------|:-----------|:-------------------------|
 | [Safari]              |                | unknown    |                          |
 
+## {% linkable_title Windows Phone 10 %}
+
+| Browser               | Release        | State      | Comments                 |
+| :-------------------- |:---------------|:-----------|:-------------------------|
+| [Edge]                |                | partially  | Streaming updates not working.|
+
+
 
 [Firefox]: https://www.mozilla.org/en-US/firefox/
 [Midori]: http://midori-browser.org/
@@ -79,3 +88,4 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 [w3m]: http://w3m.sourceforge.net/
 [Epiphany]: https://wiki.gnome.org/Apps/Web
 [surf]: http://surf.suckless.org/
+[Vivald]: https://vivaldi.com/
